@@ -1,0 +1,16 @@
+{
+  "WFRP4E_KUDOS": {
+    "Preview": {
+      "Title": "Drowsy's WFRP4e Kudos"
+    }
+  },
+  "TYPES": {
+    "Actor": {
+      "character": "Character"
+    },
+    "Item": {
+      "skill": "Skill",
+      "item": "Worthless Item"
+    }
+  }
+}
